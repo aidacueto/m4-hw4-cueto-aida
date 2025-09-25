@@ -60,7 +60,7 @@ nav a {
 section {
   background-color: white;
   padding: 20px;
-  min-width: 200px;
+  min-width: 250px;
 }
 
 section img {
@@ -72,11 +72,11 @@ aside {
   background-color: white;
   padding: 20px;
   min-width: 200px;
+  max-height: fit-content;
 }
 
 aside a {
   text-decoration: none;
-  display: inline-block;
   margin-right: 10px;
 }
 
